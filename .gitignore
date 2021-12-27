@@ -1,0 +1,7 @@
+/old
+/.objs
+/bin
+/obj
+*.depend
+*.layout
+*.exe
