@@ -47,6 +47,10 @@
 		<Unit filename="src/DirectedGraph/DirectedGraph.hpp" />
 		<Unit filename="src/Generator/Generator.hpp" />
 		<Unit filename="src/Generator/GeneratorException.hpp" />
+		<Unit filename="src/PriorityQueue/PriorityQueue.hpp" />
+		<Unit filename="src/PriorityQueue/PriorityQueueException.hpp" />
+		<Unit filename="src/Sequence/Sequence.hpp" />
+		<Unit filename="src/Sequence/SequenceException.hpp" />
 		<Unit filename="src/UndirectedGraph/UndirectedGraph.hpp" />
 		<Extensions />
 	</Project>
